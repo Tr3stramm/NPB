@@ -1,0 +1,26 @@
+# Dependency directories (Composer)
+/vendor/
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# Compiled plugin files
+*.phar
+*.zip
+
+# Environment files (sensitive data)
+.env
+*.env*
+
+# Cache and logs
+*.cache
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
